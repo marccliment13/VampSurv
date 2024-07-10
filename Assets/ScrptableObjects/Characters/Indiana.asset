@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9ffcc5e64916564ebf1fe3705a03208, type: 3}
+  m_Name: Indiana
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -1733218076, guid: c1aa5c52413c22645b6426560ddcfefb, type: 3}
+  characterName: Indiana
+  walkSpeed: 150
+  maxHealth: 100
