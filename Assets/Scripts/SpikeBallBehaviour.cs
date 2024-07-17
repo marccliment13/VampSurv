@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SpikeBallBehaviour : MonoBehaviour
+public class SpikeBall : MonoBehaviour
 {
     private SpriteRenderer sp;
     public Transform playerTransform;
